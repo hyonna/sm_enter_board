@@ -1,0 +1,198 @@
+@charset "UTF-8";
+
+* {
+	
+	margin: 0;
+	padding: 0;
+	font-family: '본고딕 KR', sans-serif;
+	
+}
+
+a {
+	
+	text-decoration: none !important;
+}
+
+
+a:hover {
+	
+	
+	text-decoration: none !important;
+	
+	
+}
+
+
+li {
+	
+	
+	list-style: none;
+	
+}
+
+body {
+	
+	background-color: #f0f2f4;
+	overflow-x: hidden;
+	
+}
+
+
+
+
+/* contents start */
+
+.container {
+	
+	max-width: 1080px;
+	margin-bottom: 100px;
+	
+}
+
+
+#n_title {
+	
+	margin-bottom: 50px;
+	
+}
+
+#notice {
+	
+	margin-top: 70px;
+	margin-bottom: 130px;
+	
+	
+}
+
+#notice ul {
+	
+	
+	margin-top: 50px;
+	
+}
+
+
+
+#notice li {
+	
+	width:100%;
+	float: left;
+	padding-bottom: 8px;
+	font-weight: 900;
+	font-size: 1em;
+	margin-right: 15px;
+	border-bottom: 4px solid black;
+	text-align: right;
+	
+	
+}
+
+#notice a:first-child {
+	
+	color : #999;
+	
+}
+
+#notice a:last-child {
+	
+	color : black;
+	
+}
+
+
+
+.notice_title {
+	
+	display: block;
+	font-size: 4em;
+	font-weight: bold;
+	margin: 10px auto;
+	color : black;
+	
+}
+
+
+
+.list_color {
+	
+	color:black;
+	display: block;
+	
+}
+
+.list_title {
+	
+	font-size: 2em;
+	font-weight: 900;
+	letter-spacing: -1px;
+}
+
+.list_date {
+	
+	font-size: 1em;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	
+}
+
+
+.list_txt {
+	
+	font-size: 1.1em;
+	letter-spacing: -1px;
+	padding-bottom: 70px;
+}
+
+
+#feed_btn {
+	
+	width: 100%;
+	margin-top: 50px;
+	box-sizing: border-box;
+	
+}
+
+#feed_btn a {
+	
+	display: inline-block;
+	
+}
+
+
+
+
+
+.btn_more{
+	
+	display:inline-block;
+	width: 100px;
+	height: 54px;
+	font-size: 1.2em;
+	line-height: 54px;
+	font-size: 1em;
+	color: black;
+	font-weight: bold;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin-bottom: 30px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: white;
+	float: left;
+	
+}
+
+.b2 {
+	
+	float: right;
+}
+
+.b3 {
+	
+	margin-right: 10px;
+	
+}
+
+
+/* contents end */
+
